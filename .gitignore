@@ -1,0 +1,12 @@
+# Plaintext station URLs
+israeli_radio_streams.m3u
+
+# Swift / Xcode build artifacts
+IsraelRadio/.build/
+IsraelRadio/.swiftpm/
+*.xcodeproj
+*.xcworkspace
+DerivedData/
+
+# macOS
+.DS_Store
