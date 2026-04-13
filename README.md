@@ -3,7 +3,7 @@
 A lightweight macOS menu bar app for streaming Israeli radio stations. Click the radio icon in your menu bar, pick a station, and listen — no browser needed.
 
 <p align="center">
-  <img src="assets/screenshot.png" alt="Israel Radio menu bar screenshot" width="300">
+  <img src="IsraelRadio/assets/screenshot.png" alt="Israel Radio menu bar screenshot" width="300">
 </p>
 
 ## Features
