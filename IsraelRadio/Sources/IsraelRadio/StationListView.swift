@@ -31,12 +31,13 @@ struct StationListView: View {
                     allStationsSection
                 }
                 .padding(.vertical, 4)
+                .frame(maxWidth: .infinity, alignment: .leading)
             }
-            .frame(maxHeight: 400)
+            .frame(minHeight: 300, maxHeight: 400)
             Divider()
             quitButton
         }
-        .frame(width: 300)
+        .frame(width: 300, height: 450)
     }
 
     // MARK: - Now Playing
